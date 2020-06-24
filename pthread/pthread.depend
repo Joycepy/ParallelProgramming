@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1587019683 source:e:\桌面\时光以南\parallel并行\实验\pthread\main.cpp
+	<bits/stdc++.h>
+	<pthread.h>
+	<semaphore.h>
+	<immintrin.h>
+	<windows.h>
+

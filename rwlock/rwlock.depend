@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1588645099 source:e:\桌面\时光以南\parallel并行\实验\rwlock\main.cpp
+	<pthread.h>
+	<stdlib.h>
+	<stdio.h>
+	"ListNode.h"
+
+1588645775 e:\桌面\时光以南\parallel并行\实验\rwlock\listnode.h
+	"rwlock.h"
+	<stdbool.h>
+
+1588601837 e:\桌面\时光以南\parallel并行\实验\rwlock\rwlock.h
+	<pthread.h>
+
+1588651632 source:e:\桌面\时光以南\parallel并行\实验\rwlock\listnode.cpp
+	"ListNode.h"
+	<stdlib.h>
+	<stdio.h>
+
+1588644223 source:e:\桌面\时光以南\parallel并行\实验\rwlock\rwlock.cpp
+	"rwlock.h"
+	<stdio.h>
+
